@@ -1,7 +1,7 @@
 # MyDesign
 <h1 align="center">Hi 👋, I'm Bansity!</h1>
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://tse1.explicit.bing.net/th?id=OIP.Va1GcTYhdxe1JfQ3gAC0HgHaEK&pid=Api&P=0&h=180)"  />
+  <img height="200" src="https://private-user-images.githubusercontent.com/135509710/307497543-29014f6b-f1a7-446a-8c86-a1018b511516.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg3NTIzMjgsIm5iZiI6MTcwODc1MjAyOCwicGF0aCI6Ii8xMzU1MDk3MTAvMzA3NDk3NTQzLTI5MDE0ZjZiLWYxYTctNDQ2YS04Yzg2LWExMDE4YjUxMTUxNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyNFQwNTIwMjhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NzAxM2M2M2U2MzZmMjAzYzgyYjk1MzExMTQ2NjM0N2MwYmE4OGY0ZTJjMDEzNTRjNjQ1YTU1YTUxYzhlODU5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.15MkCO0p7w7VA_azhto1SSA3yIbDQvcg62Otmh7Whh4"  />
 </div>
 
 ###

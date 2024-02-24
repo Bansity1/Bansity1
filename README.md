@@ -18,7 +18,7 @@ ABOUT ME
 <p align="left">
 <a href="https://fb.com/ivan baranda" target="(https://www.facebook.com/ivan.baranda.3/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivan baranda" height="30" width="40" /></a>
 <a href="https://instagram.com/ivan baranda1" target="(https://www.instagram.com/ayban_b1/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan baranda1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bansity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bansity" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bansity" target="(https://www.youtube.com/channel/UCyE70JWJmmnAb1CqoNtHIbg)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bansity" height="30" width="40" /></a>
 <a href="https://discord.gg/#8003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8003" height="30" width="40" /></a>
 </p>
 

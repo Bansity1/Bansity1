@@ -11,8 +11,8 @@
 ABOUT ME
 - 📱 Contact Me: 0927-912-0685
 - ✉️ Email: ivanbaranda055@gmail.com
-- 💬 Ask me about **Anything**
-- ⚡ Fun fact **I am....... a Super Saiyanji -- WAHHHHH**
+- 💬 Ask me about: **Anything**
+- ⚡ Fun fact: **I am....... a Super Saiyanji -- WAHHHHH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
